@@ -3,7 +3,7 @@ Group-Id: io.jenkins.plugins
 Short-Name: hello
 Long-Name: TODO Plugin
 Minimum-Java-Version: 1.8
-Plugin-Version: 1.0-SNAPSHOT (private-12/08/2021 15:31-velaga.navya)
+Plugin-Version: 1.0-SNAPSHOT (private-acbd9121-velaga.navya)
 Hudson-Version: 2.164.1
 Jenkins-Version: 2.164.1
 Plugin-Dependencies: structs:1.19
