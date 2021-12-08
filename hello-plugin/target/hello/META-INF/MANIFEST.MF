@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: velaga.navya
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_291
+Extension-Name: hello
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: hello
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: io.jenkins.plugins
+Short-Name: hello
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-12/08/2021 15:30-velaga.navya)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+

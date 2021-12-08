@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: hello
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-12/08/2021 15:29-velaga.navya)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+Libraries: C:\JenkinsgitWorkspace\hello-plugin\src\main\resources,C:\J
+ enkinsgitWorkspace\hello-plugin\target\classes
+Resource-Path: C:\JenkinsgitWorkspace\hello-plugin\src\main\webapp
+
