@@ -93,14 +93,14 @@
                 <version>2.2.6</version>
                 <scope>test</scope>
             </dependency>
-			<dependency>
+	  <dependency>
 
- <groupId>com.coravy.hudson.plugins.github</groupId>
-    <artifactId>github</artifactId>
-    <version>1.32.0</version>
-    <packaging>hpi</packaging>
+             <groupId>com.coravy.hudson.plugins.github</groupId>
+              <artifactId>github</artifactId>
+              <version>1.32.0</version>
+    
 
-</dependency
+		</dependency>
 			
         </dependencies>
     </dependencyManagement>
